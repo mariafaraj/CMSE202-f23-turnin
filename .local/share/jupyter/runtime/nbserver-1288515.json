@@ -1,0 +1,12 @@
+{
+  "base_url": "/user/fatamari/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/home/fatamari",
+  "password": false,
+  "pid": 1288515,
+  "port": 41227,
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://127.0.0.1:41227/user/fatamari/"
+}
