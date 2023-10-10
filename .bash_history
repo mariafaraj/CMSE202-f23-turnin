@@ -422,3 +422,16 @@ git commit
 curl -O https://raw.githubusercontent.com/BuzzFeedNews/2017-05-us-health-care/master/data/OECD/health_spending_per_cap.csv
 curk -O https://raw.githubusercontent.com/BuzzFeedNews/2017-05-us-health-care/master/data/OECD/life_expect_birth.csv
 curl -O https://raw.githubusercontent.com/BuzzFeedNews/2017-05-us-health-care/master/data/OECD/life_expect_birth.csv
+git push
+git push CMSE202_PracticeMidterm.ipynb 
+git push --CMSE202_PracticeMidterm
+git push
+git status 
+git add .
+git commit -m "comitting practice midterm"
+git push
+git add .
+git commit -m "committing practice midterm"
+git add .
+pip install pycountry
+pip install fuzzywuzzy
